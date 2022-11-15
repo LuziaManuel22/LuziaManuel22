@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuziaManuel22
 - 👀 I’m interested in UX designer 
-- 🌱 I’m currently learning java, python , C and Design
-- 💞️ I’m looking to collaborate on on projects for beginners
+- 🌱 I’m currently learning java, python , C , HTML, CSS and Design
+- 💞️ I’m looking to collaborate on on projects for beginners on projects for beginners in the above mentioned languages
 - 📫 How to reach me 
 
 <!---
