@@ -1,6 +1,6 @@
 - <h1>👋 Hi, I’m Luzia Manuel, currently studying computer science and design</>
 - 👀 I’m interested in UX design
-- 🌱 I’m currently learning java, python , C , HTML, CSS and Design
+- 🌱 I’m currently learning java, python , C , and working with HTML, CSS, JS and Design
 - 💞️ I’m looking to collaborate on on projects for beginners in the above mentioned languages
 - 📫 How to reach me luzia21332@iiitd.ac.in
 - 👩‍🦱pronouns: she/her
